@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gyeom\\repos\\cpp-problems\\chapter1\\Project2\\",
+  "WorkspaceRootPath": "D:\\cpp-problems\\chapter1\\Problem2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31AA6F95-4262-4E6D-8966-EA2BF38D8F5A}|Project2.vcxproj|C:\\Users\\gyeom\\repos\\cpp-problems\\chapter1\\Project2\\Problem2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{31AA6F95-4262-4E6D-8966-EA2BF38D8F5A}|Project2.vcxproj|D:\\cpp-problems\\chapter1\\Problem2\\Problem2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{31AA6F95-4262-4E6D-8966-EA2BF38D8F5A}|Project2.vcxproj|solutionrelative:Problem2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Problem2.cpp",
-              "DocumentMoniker": "C:\\Users\\gyeom\\repos\\cpp-problems\\chapter1\\Project2\\Problem2.cpp",
+              "DocumentMoniker": "D:\\cpp-problems\\chapter1\\Problem2\\Problem2.cpp",
               "RelativeDocumentMoniker": "Problem2.cpp",
-              "ToolTip": "C:\\Users\\gyeom\\repos\\cpp-problems\\chapter1\\Project2\\Problem2.cpp",
+              "ToolTip": "D:\\cpp-problems\\chapter1\\Problem2\\Problem2.cpp",
               "RelativeToolTip": "Problem2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
