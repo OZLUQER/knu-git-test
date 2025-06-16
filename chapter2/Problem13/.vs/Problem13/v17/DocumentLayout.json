@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp-problems\\chapter2\\Problem13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{916FCB02-C802-408B-8D84-700DBCDB33BF}|Problem13.vcxproj|D:\\cpp-problems\\chapter2\\Problem13\\13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{916FCB02-C802-408B-8D84-700DBCDB33BF}|Problem13.vcxproj|solutionrelative:13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "13.cpp",
+              "DocumentMoniker": "D:\\cpp-problems\\chapter2\\Problem13\\13.cpp",
+              "RelativeDocumentMoniker": "13.cpp",
+              "ToolTip": "D:\\cpp-problems\\chapter2\\Problem13\\13.cpp",
+              "RelativeToolTip": "13.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T13:36:14.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
